@@ -1,5 +1,3 @@
-local ReplicatedStorage = game:GetService("ReplicatedStorage")
-
 local logger = {}
 
 logger.LOG_LEVEL = {
